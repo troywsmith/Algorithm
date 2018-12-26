@@ -1,7 +1,18 @@
-memoize = {0:0, 1:1}
-def fib(n):
-  if n not in memoize.keys():
-    memoize[n] = fib(n-1) + fib(n-2)
-  return memoize[n]
+# # Recursion
+# def fib(n):
+#     if n <= 1:
+#         return n
+#     else:
+#         return fib(n-1) + fib(n-2)
 
-print(fib(10))
+
+## DP
+def fib(n):
+  dp = [x for x in range(n+1)]
+
+  for x in range(2, n+1):
+    dp[x] = dp[x-1] + dp[x-2]
+
+  return dp[n]
+
+print(fib(35))

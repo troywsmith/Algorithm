@@ -27,7 +27,7 @@ Topics:
 
 
 ## Dynamic Programming
-- [ ] Longest Common Subsequence
+- [X] Longest Common Subsequence
 - [ ] Longest Increasing Subsequence
 - [ ] Edit Distance
 - [ ] Minimum Partition
@@ -40,14 +40,14 @@ Topics:
 
 ## Searching & Sorting
 - [X] Binary Search
-- [ ] Quick Sort
+- [X] Quick Sort
 - [X] Merge Sort
 - [ ] Order Statistics
 - [ ] KMP algorithm
 - [ ] Rabin Karp
 - [ ] Z’s algorithm
 - [ ] Aho Corasick String Matching
-- [ ] Counting Sort
+- [X] Counting Sort
 - [ ] Manacher’s algorithm: Part 1, Part 2 and Part 3
 
 ## Number Theory
