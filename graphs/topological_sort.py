@@ -1,7 +1,7 @@
-#Python program to print topological sorting of a DAG 
+# Topological sorting of a DAG 
 from collections import defaultdict 
   
-#Class to represent a graph 
+# Class to represent a graph 
 class Graph: 
     def __init__(self,vertices): 
         self.graph = defaultdict(list) #dictionary containing adjacency List 
