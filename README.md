@@ -5,7 +5,7 @@
 ![Beautiful Mind](https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif)
 
 
-Topics:
+## Topics:
 1. Graph algorithms
 2. Dynamic programming
 3. Searching and Sorting:
@@ -13,10 +13,10 @@ Topics:
 5. Geometrical and Network Flow Algorithms
 6. Data Structures
 
-## Graph Algorithms
+### Graph Algorithms
 - [X] Breadth First Search (BFS)
 - [X] Depth First Search (DFS)
-- [ ] Shortest Path from source to all vertices **Dijkstra**
+- [X] Shortest Path from source to all vertices **Dijkstra**
 - [ ] Shortest Path from every vertex to every other vertex **Floyd Warshall**
 - [X] Minimum Spanning tree **Prim**
 - [X] Minimum Spanning tree **Kruskal**
@@ -26,7 +26,7 @@ Topics:
 - [ ] Bridges in a graph
 
 
-## Dynamic Programming
+### Dynamic Programming
 - [X] Longest Common Subsequence
 - [ ] Longest Increasing Subsequence
 - [ ] Edit Distance
@@ -38,7 +38,7 @@ Topics:
 - [ ] 0-1 Knapsack Problem
 - [ ] Assembly Line Scheduling
 
-## Searching & Sorting
+### Searching & Sorting
 - [X] Binary Search
 - [X] Quick Sort
 - [X] Merge Sort
@@ -50,7 +50,7 @@ Topics:
 - [X] Counting Sort
 - [ ] Manacher’s algorithm: Part 1, Part 2 and Part 3
 
-## Number Theory
+### Number Theory
 - [ ] Primality Test | Set 1 (Introduction and School Method)
 - [ ] Primality Test | Set 2 (Fermat Method)
 - [ ] Primality Test | Set 3 (Miller–Rabin)
@@ -81,7 +81,7 @@ Topics:
 - [ ] Russian Peasant Multiplication
 - [ ] Catalan Number
 
-## Geometrical and Network Flow Algorithms
+### Geometrical and Network Flow Algorithms
 - [ ] Convex Hull
 - [ ] Graham Scan
 - [ ] Line Intersection
@@ -93,7 +93,7 @@ Topics:
 - [ ] Hopcroft–Karp Algorithm for Maximum Matching
 - [ ] Dinic’s algo and e-maxx
 
-## Data Structures
+### Data Structures
 - [ ] Binary Indexed Tree or Fenwick tree
 - [ ] Segment Tree (RMQ, Range Sum and Lazy Propagation)
 - [ ] K-D tree (See insert, minimum and delete)
