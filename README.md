@@ -1,4 +1,4 @@
-# Algorithms
+# Data Structures & Algorithms (Python)
 
 > "An algorithm must be seen to be believed." – Donald Knuth
 
@@ -16,10 +16,10 @@
 ### Graph Algorithms
 - [X] Breadth First Search (BFS)
 - [X] Depth First Search (DFS)
-- [X] Shortest Path from source to all vertices **Dijkstra**
-- [ ] Shortest Path from every vertex to every other vertex **Floyd Warshall**
 - [X] Minimum Spanning tree **Prim**
 - [X] Minimum Spanning tree **Kruskal**
+- [X] Shortest Path from source to all vertices **Dijkstra**
+- [ ] Shortest Path from every vertex to every other vertex **Floyd Warshall**
 - [X] Topological Sort
 - [ ] Johnson’s algorithm
 - [ ] Articulation Points (or Cut Vertices) in a Graph
@@ -104,3 +104,11 @@
 - [ ] Suffix automata
 - [ ] Suffix automata II
 - [ ] LCA and RMQ
+
+
+
+#### Resources
+- Introduction to Algorithms by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen
+- The Algorithm Design Manual by Steven Skiena
+- Cracking the Coding Interview by Gayle Laakmann McDowell
+- https://www.geeksforgeeks.org/
