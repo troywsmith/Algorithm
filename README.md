@@ -28,7 +28,7 @@
 - [ ] Boggle (Find all possible words in a board of characters)
 - [ ] Bridges in a graph
 
-## Linked List
+### Linked List
 
 - [ ] Insertion of a node in Linked List (On the basis of some constraints)
 - [ ] Delete a given node in Linked List (under given constraints)
