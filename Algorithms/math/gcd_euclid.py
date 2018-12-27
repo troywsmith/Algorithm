@@ -9,22 +9,17 @@ Algorithm Technique: Recursion
 """
 
 
-def euclid(a, b):
+def gcd(a, b):
     if b == 0:
         return a
     else:
-        return euclid(b, a % b)
+        return gcd(b, a % b)
 
 
-def euclid_extended(a, b):
+def gcd_extended(a, b):
     if b == 0:
         return (a, 1, 0)
     else:
-        d, x, y = euclid_extended(b, a % b)
+        d, x, y = gcd_extended(b, a % b)
         d, x, y = d, y, x - int(a/b) * y
         return d, x, y
-
-
-print(euclid(15, 20))
-print(euclid_extended(15, 20))
-print(euclid_extended(100, 56))
