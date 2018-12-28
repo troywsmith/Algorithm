@@ -61,10 +61,10 @@
 - [x] Bubble Sort
 - [ ] Insertion Sort
 - [x] Merge Sort
-- [ ] Heap Sort (Binary Heap)
+- [x] Heap Sort (Binary Heap)
 - [x] Quick Sort
-- [ ] Interpolation Search
-- [ ] Find Kth Smallest/Largest Element In Unsorted Array
+- [x] Interpolation Search
+- [x] Find Kth Smallest/Largest Element In Unsorted Array
 - [ ] Find the pair in a sorted array whose sum is closest to x
 
 ### Tree / Binary Search Tree
