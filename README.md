@@ -17,8 +17,8 @@
 
 ### Graph Algorithms
 
-- [x] Breadth First Search (BFS)
-- [x] Depth First Search (DFS)
+- [x] Breadth First Search
+- [x] Depth First Search
 - [x] Minimum Spanning tree **Prim**
 - [x] Minimum Spanning tree **Kruskal**
 - [x] Shortest Path from source to all vertices **Dijkstra**
@@ -57,9 +57,9 @@
 ### Searching & Sorting
 
 - [x] Binary Search
-- [ ] Search (sorted and rotated array)
+- [x] Search (sorted and rotated array)
 - [x] Bubble Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [x] Merge Sort
 - [x] Heap Sort (Binary Heap)
 - [x] Quick Sort
