@@ -90,7 +90,7 @@
 - [ ] Convext Hull
 - [x] Greatest Common Divisor **Euclid**
 - [ ] Segmented Sieve
-- [ ] Chinese remainder theorem Introduction
+- [x] Chinese remainder theorem Introduction
 - [ ] Lucas Theorem
 
 ### BIT Manipulation
