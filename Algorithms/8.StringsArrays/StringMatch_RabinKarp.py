@@ -28,16 +28,8 @@ def search(txt, pat, d, q):
         # Check the hash values of current window of text and pattern
         if p == t:
 
-            match = True
-
-            # Check for characters one by one
-            for j in range(M):
-
-                if txt[i+j] != pat[j]:
-                    match = False
-                    break
-
-            if match:
+            # Check characters in substring
+            if txt[i:i+M] == pat:
                 occurences.append(i)
 
         # Calculate hash value for next window of text:
@@ -56,7 +48,7 @@ def search(txt, pat, d, q):
 txt = "GEEKS FOR GEEKS"
 pat = "GEEK"
 d = 256  # number of characters in the input alphabet
-q = 101  # A prime number
+q = 11  # A prime number
 print("Pattern found at index " + str(search(txt, pat, d, q)))
 print("Pattern found at index " + str(search('acaabc', 'aab', d, q)))
 print("Pattern found at index " + str(search('acaaca', 'aca', d, q)))

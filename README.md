@@ -88,7 +88,7 @@
 - [ ] Euler’s Totient Function
 - [ ] Sieve of Eratosthenes
 - [ ] Convext Hull
-- [x] Euclidean algorithms (Basic and Extended)
+- [x] Greatest Common Divisor **Euclid**
 - [ ] Segmented Sieve
 - [ ] Chinese remainder theorem Introduction
 - [ ] Lucas Theorem
