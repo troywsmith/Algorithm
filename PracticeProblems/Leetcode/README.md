@@ -1,3 +1,1 @@
-# LeetCode
-
-## Javascript & Python Solutions
+# LeetCode Python Solutions
