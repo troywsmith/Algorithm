@@ -26,3 +26,16 @@ class Node():
             nodes.append(n.val)
             n = n.next
         print(nodes)
+
+
+
+def deleteMiddleNode(node):
+    """
+    Time Complexity: O(1)
+    Space Complexity: O(1)
+    """
+    if node and node.next:
+        node.val = node.next.val
+        node.next = node.next.next
+    else:
+        return False

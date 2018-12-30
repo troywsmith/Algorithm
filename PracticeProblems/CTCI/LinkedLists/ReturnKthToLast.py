@@ -26,3 +26,18 @@ class Node():
             nodes.append(n.val)
             n = n.next
         print(nodes)
+
+
+def findKthToLast(head, k):
+    """
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+    """
+    slow = head
+    fast = head
+    for _ in range(k):
+        fast = fast.next
+    while fast:
+        slow = slow.next
+        fast = fast.next
+    return slow
