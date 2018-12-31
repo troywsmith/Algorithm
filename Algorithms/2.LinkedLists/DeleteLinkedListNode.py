@@ -48,9 +48,9 @@ nodes = [n1, n2, n3, n4, n5]
 
 n = n1
 for node in nodes:
-  n.next = node
-  n = n.next
-  print(n.val)
+    n.next = node
+    n = n.next
+    print(n.val)
 
 n1.printNodeList()
 n1.deleteNode(n3)
