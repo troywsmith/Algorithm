@@ -8,13 +8,15 @@ Space Complexity:
 Algorithm Technique: N/A
 """
 
-
-def search(txt, pat, d, q):
-    M = len(pat)
-    N = len(txt)
-    h = pow(d, M-1, q)
+def search(txt, pat):
+    d = 256  # number of characters in the input alphabet
+    q = 11  # A prime number
+    M = len(pat) # Length of pattern
+    N = len(txt) # Length of text
+    h = pow(d, M-1, q) 
     p = 0    # hash value for pattern
     t = 0    # hash value for txt
+
     occurences = []
 
     # Calculate the hash value of pattern and first window of text
@@ -47,9 +49,7 @@ def search(txt, pat, d, q):
 # Driver program to test the above function
 txt = "GEEKS FOR GEEKS"
 pat = "GEEK"
-d = 256  # number of characters in the input alphabet
-q = 11  # A prime number
-print("Pattern found at index " + str(search(txt, pat, d, q)))
-print("Pattern found at index " + str(search('acaabc', 'aab', d, q)))
-print("Pattern found at index " + str(search('acaaca', 'aca', d, q)))
-print("Pattern found at index " + str(search('000010001010001', '0001', d, q)))
+print("Pattern found at index " + str(search(txt, pat)))
+print("Pattern found at index " + str(search('acaabc', 'aab')))
+print("Pattern found at index " + str(search('acaaca', 'aca')))
+print("Pattern found at index " + str(search('000010001010001', '0001')))
