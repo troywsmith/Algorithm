@@ -11,14 +11,14 @@ x ^ y: Does a "bitwise exclusive or". Each bit of the output is the same as the 
 
 def getBit(num, i):
     """
-
     """
+    num = num.to_bytes(1, bytes=)
+    print(num)
 
-    for x in range(i):
-        val = int((1 << x), 2)
-        print(val)
+    # result = (num | (i << 1))
+    # print(result)
+    
+    return 
 
-    # return (i << 1)
 
-
-print(getBit(101010101, 4))
+print(getBit(101010101, 3))

@@ -6,13 +6,28 @@
 #         return fib(n-1) + fib(n-2)
 
 
-## DP
+# DP
+# def fib(n):
+#     dp = [x for x in range(n+1)]
+
+#     for x in range(2, n+1):
+#         dp[x] = dp[x-1] + dp[x-2]
+
+#     return dp[n]
+
+# DP (Optimized)
 def fib(n):
-  dp = [x for x in range(n+1)]
+    if n <= 1:
+        return n
 
-  for x in range(2, n+1):
-    dp[x] = dp[x-1] + dp[x-2]
+    a = 0
+    b = 1
+    for _ in range(2, n):
+        c = a + b
+        a = b
+        b = c
 
-  return dp[n]
+    return a + b
 
-print(fib(35))
+
+print(fib(8))
