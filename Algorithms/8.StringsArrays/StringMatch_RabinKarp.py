@@ -8,12 +8,13 @@ Space Complexity:
 Algorithm Technique: N/A
 """
 
+
 def search(txt, pat):
     d = 256  # number of characters in the input alphabet
     q = 11  # A prime number
-    M = len(pat) # Length of pattern
-    N = len(txt) # Length of text
-    h = pow(d, M-1, q) 
+    M = len(pat)  # Length of pattern
+    N = len(txt)  # Length of text
+    h = pow(d, M-1, q)
     p = 0    # hash value for pattern
     t = 0    # hash value for txt
 
@@ -24,8 +25,8 @@ def search(txt, pat):
         p = (d*p + ord(pat[i])) % q
         t = (d*t + ord(txt[i])) % q
 
-    # Slide the pattern over text one by one
-    for i in range(N-M+1):
+    # Iterate through the text one by one
+    for i in range(N-M+1  ):
 
         # Check the hash values of current window of text and pattern
         if p == t:
@@ -39,9 +40,9 @@ def search(txt, pat):
         if i < N-M:
             t = (d*(t-ord(txt[i])*h) + ord(txt[i+M])) % q
 
-            # We might get negative values of t, converting it to positive
-            if t < 0:
-                t = t+q
+        # We might get negative values of t, converting it to positive
+        if t < 0:
+            t = t+q
 
     return occurences
 
