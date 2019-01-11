@@ -26,7 +26,7 @@ def search(txt, pat):
         t = (d*t + ord(txt[i])) % q
 
     # Iterate through the text one by one
-    for i in range(N-M+1  ):
+    for i in range(N-M+1):
 
         # Check the hash values of current window of text and pattern
         if p == t:
