@@ -1,26 +1,27 @@
+from collections import defaultdict
+
+
 class MyHashSet:
 
     def __init__(self):
         """
         Initialize your data structure here.
         """
-        self = []
-        self.add(key)
-        
+        self.data = defaultdict(None)
 
     def add(self, key):
         """
         :type key: int
         :rtype: void
         """
-        self.append(key)
+        self.data[key] = True
 
     def remove(self, key):
         """
         :type key: int
         :rtype: void
         """
-        
+        self.data[key] = False
 
     def contains(self, key):
         """
@@ -28,21 +29,19 @@ class MyHashSet:
         :type key: int
         :rtype: bool
         """
-        
+        if key in self.data:
+            return self.data[key]
+        else:
+            return False
 
 
-# Your MyHashSet object will be instantiated and called as such:
-# obj = MyHashSet()
-# obj.add(key)
-# obj.remove(key)
-# param_3 = obj.contains(key)
-
-hashSet = MyHashSet()
-hashSet.add(1)
-hashSet.add(2)         
-# hashSet.contains(1)
-# hashSet.contains(3)
-# hashSet.add(2)        
-# hashSet.contains(2)
-# hashSet.remove(2)   
-# hashSet.contains(2)
+if __name__ == '__main__':
+    hashSet = MyHashSet()
+    hashSet.add(1)
+    hashSet.add(2)
+    hashSet.contains(1)
+    hashSet.contains(3)
+    hashSet.add(2)
+    hashSet.contains(2)
+    hashSet.remove(2)
+    hashSet.contains(2)

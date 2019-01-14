@@ -45,3 +45,4 @@ if __name__ == '__main__':
     arr = [1, 5, 4, 3, 2]
     print(arr)
     print(pancake_sort(arr))
+    arr.index()

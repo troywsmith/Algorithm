@@ -10,7 +10,7 @@ class Node():
 
     def insert(self, data):
         if self.data:
-            if data < self.data: 
+            if data < self.data:
                 if not self.left:
                     self.left = Node(data)
                 else:
