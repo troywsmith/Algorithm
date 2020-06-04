@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="265fe86c-c072-45a9-a7ca-b57f2e5919b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_resources/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/C Reference Card (ANSI) 2.2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/Cpp_reference.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/STL Quick Reference 1.29.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/big-o-cheatsheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/bits-cheat-cheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/python-cheat-sheet-v1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/cheat sheets/system-design.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/notes/LanguageResources.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_resources/notes/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/ImplementHashTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/ShellSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/sequentialSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/BreadthFirstSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/DepthFirstSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/ImplementGraphAdjacencyList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/WordLadder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlists/ImplementDoublyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlists/ImplementSinglyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlists/LinkedListNthToLastNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlists/LinkedListReversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlists/SinglyLinkedListCycleCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DCP152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues/ImplementDeque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues/ImplementQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues/QueueUsingTwoStacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/ImplementStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/RecWordSplit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/SentenceReversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/StringCompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/StringPermuations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/UniqueCharactersString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/ImplementBinaryHeap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/ImplementBinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/ImplementBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/ImplementTreeUsingLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/TreeLevelOrderPrint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/TreeTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/Trie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/TrimBST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trees/ValidateBST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/AllPairsShortestPaths_FloydWarshall.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/AllPairsShortestPaths_FloydWarshall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/MinimumSpanningTree_Kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/MinimumSpanningTree_Kruskal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/MinimumSpanningTree_Prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/MinimumSpanningTree_Prim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/SingleSourceLongestPathsDAG.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/SingleSourceLongestPathsDAG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/SingleSourceShortestPathsDAG.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/SingleSourceShortestPathsDAG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/SingleSourceShortestPaths_BellmanFord.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/SingleSourceShortestPaths_BellmanFord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/SingleSourceShortestPaths_Dijkstra_AdjList.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/SingleSourceShortestPaths_Dijkstra_AdjList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/SingleSourceShortestPaths_Dijkstra_AdjMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/SingleSourceShortestPaths_Dijkstra_AdjMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/StronglyConnectedComponents.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/StronglyConnectedComponents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/TopologicalSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/TopologicalSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/1.GraphTheory/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/2.LinkedLists/DeleteLinkedListNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/DeleteLinkedListNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/CoinChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/CoinChange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/LongestCommonSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/LongestCommonSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/LongestIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/LongestIncreasingSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/MatrixChainOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/MatrixChainOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/MaxSubarraySum.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/MaxSubarraySum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/RodCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/RodCut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/UglyNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/UglyNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/3.DynamicProgramming/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/BinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/BubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/BubbleSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/CountingSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/CountingSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/HeapSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/HeapSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/InsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/InsertionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/InterpolationSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/InterpolationSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/LinearSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/LinearSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/MergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/QuickSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/QuickSortRandomized.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/QuickSortRandomized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/QuickselectKthSmallest.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/QuickselectKthSmallest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/RadixSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/RadixSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/4.SortingSearching/RotatedSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/RotatedSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/6.NumberTheory/ChineseRemainderTheorem.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/ChineseRemainderTheorem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/6.NumberTheory/gcd_euclid.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/gcd_euclid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/6.NumberTheory/lcm_euclid.py" beforeDir="false" afterPath="$PROJECT_DIR$/math/lcm_euclid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/8.StringsArrays/AddSearchWordDataStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/design/AddSearchWordDataStructure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/8.StringsArrays/StringMatch_Naive.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/StringMatch_Naive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/8.StringsArrays/StringMatch_RabinKarp.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/StringMatch_RabinKarp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/trees/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Heaps.py" beforeDir="false" afterPath="$PROJECT_DIR$/trees/BinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/LinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/LinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter10/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacks/Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/trees/Heaps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/Trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/trees/Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter10/LinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter10/LinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter10/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queues/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter10/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter10/Stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter15/FibonacciDP.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter15/FibonacciDP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter15/LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter15/LCS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter15/MatrixChainOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter15/MatrixChainOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter15/RodCuttingDP.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter15/RodCuttingDP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter15/UglyNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter15/UglyNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter16/ActivitySelector.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter16/ActivitySelector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter16/CoinChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter16/CoinChange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter22/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter22/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter22/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter22/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter22/strongly_connected_components.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter22/strongly_connected_components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter22/topological_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter22/topological_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter23/KruskalsAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter23/KruskalsAlgorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter23/PrimsAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter23/PrimsAlgorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter4/MSS.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter4/MSS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter4/MaxReturns.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter4/MaxReturns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter4/MaxSubarrayProblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter4/MaxSubarrayProblem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter5/CouponCollectorsProblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter5/CouponCollectorsProblem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter5/randomizeList.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter5/randomizeList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter6/heapsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter6/heapsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter7/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter7/quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter8/countingSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter8/countingSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter8/radixSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter8/radixSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter9/minMax.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter9/minMax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CLRS/Chapter9/randomizedSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CLRS/Chapter9/randomizedSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/10_RankFromStream.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/10_RankFromStream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/11_PeaksAndValleys.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/11_PeaksAndValleys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/1_SortedMerge.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/1_SortedMerge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/2_GroupAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/2_GroupAnagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/3_SearchRotatedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/3_SearchRotatedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/4_SortedSearchNoSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/4_SortedSearchNoSize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/5_SparseSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/5_SparseSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/6_SortBigFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/6_SortBigFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/7_MissingInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/7_MissingInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/8_FindDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/8_FindDuplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_10_SortingSearching/9_SortedMatrixSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_10_SortingSearching/9_SortedMatrixSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/10_LivingPeople.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/10_LivingPeople.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/11_DivingBoard.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/11_DivingBoard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/12_XMLencoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/12_XMLencoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/13_BisectSquares.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/13_BisectSquares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/14_BestLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/14_BestLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/15_MasterMind.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/15_MasterMind.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/16_SubSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/16_SubSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/17_ContinguousSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/17_ContinguousSequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/18_PatternMatching.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/18_PatternMatching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/19_PondSizes.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/19_PondSizes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/1_NumberSwapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/1_NumberSwapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/20_T9.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/20_T9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/21_SumSwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/21_SumSwap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/22_LangtonsAnt.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/22_LangtonsAnt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/23_Rand7fromRand5.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/23_Rand7fromRand5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/24_PairsWithSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/24_PairsWithSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/25_LRU_Cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/25_LRU_Cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/26_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/26_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/2_WordFrequencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/2_WordFrequencies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/3_Intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/3_Intersection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/4_TicTacWin.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/4_TicTacWin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/5_FactorialZeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/5_FactorialZeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/6_SmallestDifference.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/6_SmallestDifference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/7_NumberMax.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/7_NumberMax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/8_EnglishInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/8_EnglishInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_16_ModerateProblems/9_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_16_ModerateProblems/9_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/CheckPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/CheckPermutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/OneAway.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/OneAway.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/PalindromePermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/PalindromePermutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/RotateMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/RotateMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/StringCompression.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/StringCompression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/StringRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/StringRotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/URLify.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/URLify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/ZeroMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/ZeroMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_1_ArrayString/isUnique.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_1_ArrayString/isUnique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/DeleteMiddleNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/DeleteMiddleNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/Intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/Intersection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/LoopDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/LoopDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/Palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/RemoveDups.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/RemoveDups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/ReturnKthToLast.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/ReturnKthToLast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_2_LinkedLists/SumLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_2_LinkedLists/SumLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/AnimalShelter.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/AnimalShelter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/QueueClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/QueueClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/QueueViaStacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/QueueViaStacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/SortStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/SortStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/StackClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/StackClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/StackMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/StackMin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/StackOfPlates.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/StackOfPlates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_3_StacksQueues/ThreeInOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_3_StacksQueues/ThreeInOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/BST_Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/BST_Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/BuildOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/BuildOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/CheckBalanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/CheckBalanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/CheckSubtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/CheckSubtree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/FirstCommonAncestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/FirstCommonAncestor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/ListOfDepths.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/ListOfDepths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/MinimalTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/MinimalTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/PathsWithSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/PathsWithSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/RandomNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/RandomNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/RouteBetweenNodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/RouteBetweenNodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/Successor.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/Successor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_4_TreesGraphs/ValidateBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_4_TreesGraphs/ValidateBST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/1_Insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/1_Insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/2_BinaryToString.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/2_BinaryToString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/3_FlipBitToWin.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/3_FlipBitToWin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/4_NextNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/4_NextNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/5_Debugger.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/5_Debugger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/6_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/6_Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/7_PairwiseSwap.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/7_PairwiseSwap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/8_DrawLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/8_DrawLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_5_BitManipulation/CommonTasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_5_BitManipulation/CommonTasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_7_ObjectOrientedDesign/DeckOfCards.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_7_ObjectOrientedDesign/DeckOfCards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/BooleanEvaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/BooleanEvaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/CoinChange.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/CoinChange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/EightQueens.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/EightQueens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/EightQuensChess.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/EightQuensChess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/MagicIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/MagicIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/PaintFill.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/PaintFill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/Parens.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/Parens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/PermutationsWithDups.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/PermutationsWithDups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/PermutationsWithoutDups.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/PermutationsWithoutDups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/PowerSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/PowerSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/RecursiveMultiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/RecursiveMultiply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/RobotInGrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/RobotInGrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/StackOfBoxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/StackOfBoxes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/TowersOfHanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/TowersOfHanoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/Ch_8_RecursionDynamicProgramming/TripleStep.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/Ch_8_RecursionDynamicProgramming/TripleStep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/BinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/DirectedGraphAdjList.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/DirectedGraphAdjList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/Graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/LinkedListClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/LinkedListClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/CTCI/DataStructures/Trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CTCI/DataStructures/Trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/184.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/184.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/186.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/186.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/187.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/187.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/205.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/205.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/211.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/211.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/212.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/212.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/224.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/224.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/225.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/225.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/DCP/233.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DCP/233.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/1.TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/1.TwoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/11.ContainerMostWater.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/11.ContainerMostWater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/125.ValidPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/125.ValidPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/13.RomanToInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/13.RomanToInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/14.LongestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/14.LongestCommonPrefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/141.LinkedListCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/141.LinkedListCycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/151.ReverseWordsInAString.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/151.ReverseWordsInAString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/155.StackMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/155.StackMin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/160.IntersectionOfTwoLinkedLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/160.IntersectionOfTwoLinkedLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/18.FourSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/18.FourSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/19.RemoveNthNodeFromEndOfList.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/19.RemoveNthNodeFromEndOfList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/198.HouseRobber.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/198.HouseRobber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/2.AddTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/2.AddTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/20.ValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/20.ValidParentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/21.MergeTwoSortedLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/21.MergeTwoSortedLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/211.AddSearchWordDataStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/211.AddSearchWordDataStructure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/27.RemoveElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/27.RemoveElement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/28.ImplementStrStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/28.ImplementStrStr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/283.MoveZeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/283.MoveZeroes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/292.NimGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/292.NimGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/309.BestTimeToBuySellStockWithCooldown.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/309.BestTimeToBuySellStockWithCooldown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/332.ReconstructItinerary.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/332.ReconstructItinerary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/35.SearchInsertPosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/35.SearchInsertPosition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/38.CountAndSay.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/38.CountAndSay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/392.isSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/392.isSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/394.DecodeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/394.DecodeString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/412.FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/412.FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/459.RepeatedSubstringPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/459.RepeatedSubstringPattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/460.LFUCache.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/460.LFUCache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/47.RotateImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/47.RotateImage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/476.NumberComplement.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/476.NumberComplement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/5.LongestPalindromicSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/5.LongestPalindromicSubstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/500.KeyboardRow.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/500.KeyboardRow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/509.FibonacciNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/509.FibonacciNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/53.MaxSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/53.MaxSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/53.MaximumSubarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/53.MaximumSubarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/53.MaximumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/53.MaximumSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/557.ReverseWordsInStringIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/557.ReverseWordsInStringIII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/561.ArrayPartitionI.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/561.ArrayPartitionI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/58.LengthLastWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/58.LengthLastWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/583.DeleteOperationForTwoStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/583.DeleteOperationForTwoStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/6.ZigZagConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/6.ZigZagConversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/66.PlusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/66.PlusOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/665.NonDecreasingArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/665.NonDecreasingArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/676.ImplementMagicDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/676.ImplementMagicDictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/70.ClimbingStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/70.ClimbingStairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/705.DesignHashSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/705.DesignHashSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/771.JewelsAndStones.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/771.JewelsAndStones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/796.RotateString.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/796.RotateString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/804.UniqueMorseCodeWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/804.UniqueMorseCodeWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/807.MaxIncreaseToKeepCitySkyline.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/807.MaxIncreaseToKeepCitySkyline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/821.ShortestDistanceToCharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/821.ShortestDistanceToCharacter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/875.KokoEatingBananas.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/875.KokoEatingBananas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/876.MiddleOfTheLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/876.MiddleOfTheLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/88.MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/88.MergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/890.FindAndReplacePattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/890.FindAndReplacePattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/905.SortArrayByParity.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/905.SortArrayByParity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/929.UniqueEmailAddresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/929.UniqueEmailAddresses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/944.DeleteColumnsToMakeSorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/944.DeleteColumnsToMakeSorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/954.ArrayDoubledPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/954.ArrayDoubledPairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/961.NRepeatedElementSize2NArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/961.NRepeatedElementSize2NArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/CompoundCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/CompoundCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/browser_support.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/browser_support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/bst_inorder_successor.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/bst_inorder_successor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/bst_largest_smaller_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/bst_largest_smaller_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/decrypt_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/decrypt_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/find_arr_quadruplet.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/find_arr_quadruplet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/find_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/find_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/number_of_paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/number_of_paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/pairs_with_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/pairs_with_difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/pancake_flip.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/pancake_flip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/search_rotated_arr.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/search_rotated_arr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProblems/Pramp/sum_pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Pramp/sum_pairs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cptELMIRzgurewHZ65vOwcHWPP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trees" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trees" />
+      <recent name="$PROJECT_DIR$/graphs" />
+      <recent name="$PROJECT_DIR$/linkedlists" />
+      <recent name="$PROJECT_DIR$/strings" />
+      <recent name="$PROJECT_DIR$/arrays" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linkedlists" />
+      <recent name="$PROJECT_DIR$/arrays" />
+      <recent name="$PROJECT_DIR$/queues" />
+      <recent name="$PROJECT_DIR$/stacks" />
+      <recent name="$PROJECT_DIR$/practice" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265fe86c-c072-45a9-a7ca-b57f2e5919b9" name="Default Changelist" comment="" />
+      <created>1591237249023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591237249023</updated>
+    </task>
+    <servers />
+  </component>
+</project>
